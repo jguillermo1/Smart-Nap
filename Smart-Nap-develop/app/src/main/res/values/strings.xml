@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SmartNap</string>
+    <string name="setNewAlarm">Set Alarm</string>
+    <string name="editAlarmHeader">Edit Alarm</string>
+    <string name="inputAlarmName">Alarm name</string>
+    <string name="create_new_question">Create New Question</string>
+    <string name="edit_myquestion">Edit MyQuestion</string>
+    <string name="QuestionSet">MyQuestionSet</string>
+    <string name="save">Save</string>
+    <string name="answer">Answer:</string>
+    <string name="clear">Clear</string>
+    <string name="new_question">Question Submission</string>
+    <string name="question">Question?</string>
+    <string name="classid">Class</string>
+    <string name="flashcard">Flashcard</string>
+    <string name="flashcard_answer">flashcard answer</string>
+    <string name="title_activity_alarm_dialog">AlarmDialog</string>
+    <string name="empty" />
+    <string name="this_will_be_the_question">This Will be the Question</string>
+    <string name="silence_alarm">Silence Alarm</string>
+    <string name="this_will_be_the_answer">This Will be the Answer</string>
+    <string name="textview">TextView</string>
+    <string name="textview1">TextView1</string>
+</resources>
